@@ -68,6 +68,37 @@ git merge development
 git push origin production
 ```
 
+## Step 14: Configure Git on a Linux server
 
-Git production
+### Install Git
+```sh
+sudo apt-get update
+sudo apt-get install git
+```
+
+### Set up your Git username and email
+```sh
+git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com"
+```
+
+### Verify the installation
+```sh
+git --version
+```
+
+### Clone the repository to the server
+```sh
+git clone https://github.com/your-username/your-repository.git
+```
+
+### Navigate to the repository directory
+```sh
+cd your-repository
+```
+
+### Pull the latest changes from the remote repository
+```sh
+git pull origin master
+```
 
