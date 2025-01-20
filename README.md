@@ -68,3 +68,4 @@ git merge development
 git push origin production
 ```
 
+git master changes
