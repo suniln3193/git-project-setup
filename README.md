@@ -29,12 +29,12 @@ git remote add origin https://github.com/your-username/your-repository.git
 
 ## Step 6: Push your code to the remote repository
 ```sh
-git push -u origin main
+git push -u origin master
 ```
 
 ## Step 7: Pull the latest changes from the remote repository
 ```sh
-git pull origin main
+git pull origin master
 ```
 
 ## Step 8: Create and switch to a new branch for development
