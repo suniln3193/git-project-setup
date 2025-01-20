@@ -1,0 +1,14 @@
+# Ignore .htaccess files
+.htaccess
+
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ignore PDF files
+*.pdf
+
+# Ignore ZIP files
+*.zip
