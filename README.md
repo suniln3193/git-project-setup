@@ -1,4 +1,6 @@
+# Usefull resource
 
+Chai Aur Code - https://docs.chaicode.com/getting-started-with-github/
 
 # Git Workflow Guide
 
@@ -29,7 +31,7 @@ git remote add origin https://github.com/your-username/your-repository.git
 
 ## Step 6: Push your code to the remote repository
 ```sh
-git push -u origin master
+git push origin master
 ```
 
 ## Step 7: Pull the latest changes from the remote repository
@@ -44,7 +46,7 @@ git checkout -b development
 
 ## Step 9: Push the development branch to the remote repository
 ```sh
-git push -u origin development
+git push origin development
 ```
 
 ## Step 10: Create and switch to a new branch for production
@@ -54,7 +56,7 @@ git checkout -b production
 
 ## Step 11: Push the production branch to the remote repository
 ```sh
-git push -u origin production
+git push origin production
 ```
 
 ## Step 12: Merge changes from development to production
