@@ -26,6 +26,7 @@
 - `git add filename.type`: Add a single file to the staging area
 - `git commit -m "commit message"`: Saving changes to git
 - `git log`: Display changes have been staged and by whom
+- - `git log --oneline`: Display changes in oneline have been staged and by whom
 - `git restore --staged filename.type`: Unstage file
 - `git reset`: Unstage all your files at once
 - `git rm --cached filename.type/directory`: Remove the version/data history from git repo
